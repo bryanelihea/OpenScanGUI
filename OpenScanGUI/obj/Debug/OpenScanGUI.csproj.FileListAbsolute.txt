@@ -1,0 +1,12 @@
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\bin\Debug\OpenScanGUI.exe.config
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\bin\Debug\OpenScanGUI.exe
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\bin\Debug\OpenScanGUI.pdb
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\bin\Debug\Python.Runtime.dll
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.csprojAssemblyReference.cache
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.Form1.resources
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.Properties.Resources.resources
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.csproj.GenerateResource.cache
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.csproj.CoreCompileInputs.cache
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.csproj.CopyComplete
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.exe
+C:\Users\smacdonaldsmith\source\repos\OpenScanGUI\OpenScanGUI\obj\Debug\OpenScanGUI.pdb
